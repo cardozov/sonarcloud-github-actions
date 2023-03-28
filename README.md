@@ -1,1 +1,1 @@
-# sonarcloud-github-actions
+# sonarcloud-github-actions [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=cardozov_sonarcloud-github-actions&metric=coverage)](https://sonarcloud.io/summary/new_code?id=cardozov_sonarcloud-github-actions)
